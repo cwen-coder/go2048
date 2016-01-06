@@ -13,9 +13,9 @@ $go run go2048.go
 
 ## 游戏截图   
 运行图片(1)  
-![](http://7xnp02.com1.z0.glb.clouddn.com/20481.png)  
+![](http://7xnp02.com1.z0.glb.clouddn.com/20481.png)   
 
-运行图片(2) 
+运行图片(2)    
 ![](http://7xnp02.com1.z0.glb.clouddn.com/20482.png)  
 
 
